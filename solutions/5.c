@@ -24,5 +24,5 @@ int main() {
 		lcm_value = lcm(lcm_value, i);
 	}
 
-	printf("%i\n", lcm(232792560, 20));
+	printf("%i\n", lcm_value);
 }
